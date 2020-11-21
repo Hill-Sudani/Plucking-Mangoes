@@ -2,7 +2,7 @@ class stone
 {
     constructor(x,y,diameter)
     {
-        this.image = loadImage("Plucking mangoes/stone.png");
+        this.image = loadImage("stone.png");
 
         this.dia = diameter;
 
