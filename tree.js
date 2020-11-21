@@ -2,7 +2,7 @@ class tree
 {
     constructor(x,y)
     {
-        this.image = loadImage("Plucking mangoes/tree.png")
+        this.image = loadImage("tree.png")
         this.x = x;
         this.y = y;
         this.width = 500;
