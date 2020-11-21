@@ -2,7 +2,7 @@ class mango
 {
     constructor(x,y)
     {
-        this.image = loadImage("Plucking mangoes/mango.png")
+        this.image = loadImage("mango.png")
         var options = 
         {
             isStatic : true,
