@@ -6,7 +6,7 @@ const Constraint = Matter.Constraint;
 
 function preload()
 {
-	boy = loadImage("Plucking mangoes/boy.png")
+	boy = loadImage("boy.png")
 }
 
 function setup() 
